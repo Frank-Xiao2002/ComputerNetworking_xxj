@@ -13,3 +13,8 @@ Approach (7th
 edition)_.
 
 Please go to <https://gaia.cs.umass.edu/kurose_ross> for the official code repository and materials.
+
+Suggestions:
+
+* Use JetBrains Pycharm to open the project and you can get predefined run configurations.
+* Find code for each chapter with the section number.
