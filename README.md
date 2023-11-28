@@ -8,7 +8,7 @@ This repository is for everyone wishing to check or to compare the code for this
 This is only a repository created during Frank_Xiao's learning and is for discussing or checking or, to put it in
 another way, for fun.
 
-***Attention***: This is __NOT__ the standard and official book repository for _Computer Networking: A Top-Down
+***Attention***: This is __NOT__ the standard and official code repository for _Computer Networking: A Top-Down
 Approach (7th
 edition)_.
 
